@@ -1,4 +1,4 @@
-# Smart Medical Appointment System MVP
+# Smart Medical Appointment System
 
 A MERN stack application for managing medical appointments.
 
